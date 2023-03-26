@@ -41,7 +41,7 @@ My chosen API for this project is **The Rick and Morty API: https://rickandmorty
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://i.imgur.com/11HO6Te.mp4
+<img src = 'https://i.imgur.com/s05s1Bf.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
