@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessIt- the Rick and Morty Version</string>
+    <string name="backgroundPortal">backgroundPortal</string>
+    <string name="characterImage">characterImage</string>
+    <string name="title">Guess the Character!</string>
+    <string name="correct">Wubba Lubba dub-dub!</string>
+    <string name="wrong">Not Schwifty Enough!.</string>
+</resources>
