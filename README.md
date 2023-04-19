@@ -1,16 +1,10 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
-
-Submitted by: **Andrew Henin**
-
-Time spent: **9** hours spent in total
+# Rick and Morty Trivia Game
 
 ## Summary
 
 **GuessIt- The Rick and Morty Version** is an android app that **displays pictures of random characters in the show "Rick and Morty" and asks the user to guess the answer.**
-
-If I had to describe this project in three (3) emojis, they would be: **👴🥒👦**
 
 ## Application Features
 
@@ -49,10 +43,6 @@ GIF created with **ScreenToGif**
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
